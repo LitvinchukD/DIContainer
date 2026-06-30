@@ -1,0 +1,18 @@
+{
+    "name": "DContainer.Editor",
+    "rootNamespace": "DContainer.Editor",
+    "references": [
+        "DContainer.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

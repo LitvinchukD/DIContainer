@@ -1,0 +1,13 @@
+{
+	"name": "DContainer.Runtime",
+	"rootNamespace": "DContainer",
+	"references": [],
+	"autoReferenced": true,
+	"includePlatforms": [],
+	"excludePlatforms": [],
+	"allowUnsafeCode": false,
+	"overrideReferences": false,
+	"precompiledReferences": [],
+	"defineConstraints": [],
+	"versionDefines": []
+}
